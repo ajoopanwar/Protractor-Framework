@@ -1,5 +1,6 @@
 # Protractor-Framework
 Getting Started
+<img src="images/test.png">
 
-         <img src="images/test.png"
+
   
